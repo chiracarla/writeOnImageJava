@@ -26,3 +26,8 @@ This project introduced me to basic image manipulation in Java, including:
 - Longer message display
 - Graphical user interface (GUI) for easier interaction
 
+## IN: 
+![out_floare](https://github.com/user-attachments/assets/8a65512c-e859-4350-9bef-9d631cd28a1a)
+
+## OUT:
+![verif_floare](https://github.com/user-attachments/assets/215c5c6e-2909-41e3-8d3d-b9210e483b7a)
